@@ -1,3 +1,3 @@
 # test_deneme
-repo kurmayı öğreniyorum
+javascript öğreniyorum
 JavaScript Hipotenüs Hesaplama
